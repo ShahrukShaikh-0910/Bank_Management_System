@@ -1,5 +1,16 @@
 /*  ****BANK MANAGEMENT SYSTEM ****
 
+
+[*IMP: to run this code u need to enter valid acount number , i am given it 7 acount holder to this system , hare some account number
+
+acount number 1:- 12345678901
+acount number 2:- 12345678902
+acount number 3:- 12345678903
+acount number 4:- 12345678904
+acount number 5:- 12345678905
+acount number 6:- 12345678906
+acount number 7:- 12345678907      ]
+
            * By using Account Number  
            
            * He/she can see all details about self eX, Name , acNumber , Id , Balance 
